@@ -3,7 +3,7 @@
 EasyImage allow you to eaisly take picture from gallery, camera or documents without creating lots of boilerplate.
   
 #How to use it?
-##Essentials
+##Essentials 
 
 ####Taking straight to camera
 - ```EasyImage.openCamera(Activity activity);```
